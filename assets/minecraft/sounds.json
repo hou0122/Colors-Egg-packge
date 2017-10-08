@@ -1,0 +1,16 @@
+{
+    "test.1": {
+      "category": "player",
+      "replace": true,
+        "sounds": [
+            "test/001"
+        ]
+    },
+    "test.2": {
+      "category": "player",
+      "replace": true,
+        "sounds": [
+            "test/p"
+        ]
+    }
+}
